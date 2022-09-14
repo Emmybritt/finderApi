@@ -1,0 +1,23 @@
+{
+  "name": "finderapi",
+  "version": "1.0.0",
+  "description": "Finder application is an online mobile app for finder artisans and talents accross africa as a whole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmybritt/finderApi.git"
+  },
+  "keywords": [
+    "Finder",
+    "artisans"
+  ],
+  "author": "Emmy Britt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmybritt/finderApi/issues"
+  },
+  "homepage": "https://github.com/Emmybritt/finderApi#readme"
+}
